@@ -1,0 +1,42 @@
+{
+	"name": "superhero-hunter-app-mini-server",
+	"version": "1.0.0",
+	"description": "This is a Mini Back-End Proxy Server for the Super Hero Hunter App.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ayush-Kanduri/SuperHero-Hunter-App-Mini-Server.git"
+	},
+	"keywords": [
+		"super",
+		"hero",
+		"app",
+		"superhero",
+		"hunter",
+		"api",
+		"proxy",
+		"backend",
+		"server",
+		"mini",
+		"mini",
+		"backend",
+		"proxy",
+		"server"
+	],
+	"author": "ayush kanduri",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Ayush-Kanduri/SuperHero-Hunter-App-Mini-Server/issues"
+	},
+	"homepage": "https://github.com/Ayush-Kanduri/SuperHero-Hunter-App-Mini-Server#readme",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"cors": "^2.8.5",
+		"dotenv": "^16.0.2",
+		"express": "^4.18.1"
+	}
+}
